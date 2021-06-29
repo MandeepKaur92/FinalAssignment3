@@ -1,0 +1,16 @@
+INFO:root:Info:Began to log
+WARNING:root:Warning:It is Unit testing program 
+WARNING:root:Warning:You enter in the testing phase
+ERROR:root:radius value  less than 1 and area greater than 1000 generate error 
+ERROR:root:radius value  less than 1 and circle_diameter greater than 1000 generate error 
+ERROR:root:radius value  less than 1 and circle_circumference greater than 1000 generate error 
+INFO:root:starting Time: 0.1661204
+INFO:root:Execution Time: 11.9213426
+INFO:root:Info:Began to log
+WARNING:root:Warning:It is Unit testing program 
+WARNING:root:Warning:You enter in the testing phase
+ERROR:root:radius value  less than 1 and area greater than 1000 generate error 
+ERROR:root:radius value  less than 1 and circle_diameter greater than 1000 generate error 
+ERROR:root:radius value  less than 1 and circle_circumference greater than 1000 generate error 
+INFO:root:starting Time: 0.1496101
+INFO:root:Execution Time: 11.347579999999999
